@@ -1,4 +1,4 @@
-# 
+# Native CodeSentinel guide. Download and install with gui-available and auto-update — fast, secure, and easy to use.
 
 
 
